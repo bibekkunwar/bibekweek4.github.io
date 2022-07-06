@@ -1,14 +1,14 @@
 var names=new Array();
 names[0]="bibek";
-names[1]="bibek1";
-names[2]="bibek2";
-names[3]="bibek3";
-names[4]="bibek4";
-names[5]="bibek5";
-names[6]="bibek6";
-names[7]="bibek7";
-names[8]="bibek8";
-names[9]="bibek9";
+names[1]="yakoov";
+names[2]="john";
+names[3]="harry";
+names[4]="jenny";
+names[5]="kakashi";
+names[6]="naruto";
+names[7]="luffy";
+names[8]="zoro";
+names[9]="robin chan";
 
 
 for (var i = 0; i < names.length; i++) {
